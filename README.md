@@ -22,6 +22,9 @@ This project isn't really keen on accepting contributions, but if you want to ad
 Feel free to open an issue.
 
 ### If you want to add to the code...
+> **Note**
+> Please ensure that you have Node and Git installed.
+
 - Fork this repo
 - Clone it to your local machine using `git clone <repo link>` 
 
