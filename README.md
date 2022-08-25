@@ -4,9 +4,9 @@ After seeign people post their links together with LinkTree, I decided to make a
 
 # Project Overview
 
-<p> Below is a view of the project, and a link to the site. Hover over the avatar and buttons to see some animations I added with Rough Notation. Check the live site: </p>
+<p> Below is a view of the project, and a link to the site. Hover over the avatar and buttons to see some animations I added with Rough Notation. Check the live site: https://link-tree-tailwind-vanilla-js.vercel.app/ </p>
 
-<img src="" alt="drawing" width="800" align="center"/>
+<img src="https://user-images.githubusercontent.com/81039882/186658920-1239782c-bf86-4f46-b589-09a8214b60d4.png" alt="link tree card with hashnode, freecodecamp and frontend mentor links" width="800" align="center"/>
 
 # Tech Stack
 
@@ -18,6 +18,10 @@ After seeign people post their links together with LinkTree, I decided to make a
 
 This project isn't really keen on accepting contributions, but if you want to add or adjust anyhting, I highly encourage you.
 
+### If you have an issue to report, or want something to be removed/added,
+Feel free to open an issue.
+
+### If you want to add to the code...
 - Fork this repo
 - Clone it to your local machine using `git clone <repo link>` 
 
